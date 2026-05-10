@@ -27,6 +27,13 @@ If repo deleted , find fork here
 https://github.com/apkunpacker/Duck-Detector-Refactoring
 ```
 
+
+DirtySepolicy (org.lsposed.dirtysepolicy)
+```sh
+Detect Magisk/KSU/LSPosed ( https://github.com/eltavine/Duck-Detector-Refactoring/pull/22)
+```
+
+
 APTest (me.garfieldhan.hiapatch) -
 ```sh
 "Detect APatch" ( https://github.com/bmax121/APatch )
