@@ -30,7 +30,11 @@ https://github.com/apkunpacker/Duck-Detector-Refactoring
 
 DirtySepolicy (org.lsposed.dirtysepolicy)
 ```sh
-Detect Magisk/KSU/LSPosed ( https://github.com/eltavine/Duck-Detector-Refactoring/pull/22)
+Detect Magisk/KSU/LSPosed
+
+https://github.com/eltavine/Duck-Detector-Refactoring/pull/22
+https://github.com/LSPosed/DirtySepolicy
+
 ```
 
 
